@@ -1,4 +1,4 @@
-package com.aew.mail;
+﻿package com.aew.mail;
 
 import java.util.Properties;
 
@@ -15,7 +15,7 @@ public class Mail {
 	public static void mandarCorreo() {
 		// El correo gmail de envío
 		String correoEnvia = "adrianwilgenhoff@gmail.com";
-		String claveCorreo = "aew3335695310";
+		String claveCorreo = "LaPAssword";
 
 		// La configuración para enviar correo
 		Properties properties = new Properties();
